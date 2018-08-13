@@ -1,0 +1,22 @@
+{
+  "name": "cloudbuilder",
+  "version": "1.0.0",
+  "description": "Test for Google Cloud Builder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calummoore/cloudbuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calummoore/cloudbuilder/issues"
+  },
+  "homepage": "https://github.com/calummoore/cloudbuilder#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
